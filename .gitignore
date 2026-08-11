@@ -102,3 +102,17 @@ htmlcov/
 # OS generated files
 # ------------------------------------------------------------
 *.stackdump
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python tooling
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
