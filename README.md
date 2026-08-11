@@ -187,12 +187,19 @@ The architecture and technical foundations are being progressively implemented.
 Architecture Sprints
 
  Sprint Architecture 1 — Identity
+ 
  Sprint Architecture 2 — Asset Management
+ 
  Sprint Architecture 3 — Analysis
+ 
  Sprint Architecture 4 — Decision Engine
+ 
  Sprint Architecture 5 — Learning
+ 
  Sprint Architecture 6 — Notification
+
  Sprint Architecture 7 — Administration
+ 
  Sprint Architecture 8 — Monitoring
 
 ## Development Environment
