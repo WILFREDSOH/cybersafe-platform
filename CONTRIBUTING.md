@@ -19,7 +19,7 @@ CyberSafe follows these principles :
 
 The main branch is :
 
-```text
+
 main
 
 New fratures should be developed in dedicated branches.
@@ -66,6 +66,5 @@ Before merging a change:
  5. Review security implications.
  6. Update documentation when necessary.
 
-```text
 
  	
